@@ -3,7 +3,7 @@ This is a Work-In-Progress, meaning things are being added and taken away daily.
 
 ---
 
-### Contents
+## Contents
 1. [Welcome to **Simulacrum**](#welcome-id)
 2. [Is It Really OSR?](#osr-id)
 3. 
@@ -11,7 +11,7 @@ This is a Work-In-Progress, meaning things are being added and taken away daily.
 ---
 
 
-### Welcome to Simulacrum {#welcome-id}
+## Welcome to Simulacrum {#welcome-id}
 
 **The war began over two decades ago . . .**
 
@@ -30,7 +30,7 @@ But when you’ve fought a war to end all wars, how can you give up your guns? H
 **You survived the war, but now you must find a way to survive the peace.**
 
 
-### Is It Really OSR? {#osr-id}
+## Is It Really OSR? {#osr-id}
 OSR stands for old-school revival (which is what we mean by OSR in this section; others might say it means, ‘old-school renaissance’), and it stands for more than that, too. OSR gaming is more than harkening back to the so-called good ol’ days of roleplaying games. Instead, it is a school of thought that hopes to strip away the meaningless number crunching, the tragic overemphasis on grids, boards, and miniature, and the bloated mechanics of modern roleplaying games. OSR stresses simplicity over complexity. It is the Occam’s Razor response to many modern roleplaying systems.  
 
 Ben Milton (***Maze Rats***), via the wonderfully written (and compiled) OSR manifesto, ***Principia Apocrypha***, sums up OSR gameplay as follows: 
@@ -63,13 +63,13 @@ Next, is ***interaction***, which emphasizes the players’ interactions with in
 
 **Random Tables FTW.** Random tables allow referees to call up new encounters with the use of dice rolls. These encounters keep the game fresh, unique, and moving forward. In this OSR-inspired roleplaying, referees will find plenty of tables that are designed to make their jobs both easier and surprising.  
 
-#### Is It Really OSR, Though? 
+### Is It Really OSR, Though? 
 Some players might have a beef with the rules found in this core rulebook. While some of the rules (and the overall mechanics) are OSR-inspired, this game also enacts its own innovations to make House of the Rising Sun more of its own thing. This isn’t merely a retro-clone. In fact, it isn’t anywhere close to a true retro-clone. Instead, this is a game that takes a page from those retro-clones, and it attempts to create something new, all the while adhering to the design principles found in OSR roleplaying games. So, it tastes like chicken, but it ain’t chicken, folks.  
 
-#### Compatibility with Others 
+### Compatibility with Others 
 While many retro-clones focus on backwards compatibility with different games, this game is different. It doesn’t offer much in the way of guidelines for converting characters’ stats and whatnot to this game or to others. Instead, this game leaves that up to the players who are interested in such things. While compatibility is a nice feature, it isn’t the focus here—and that is okay.  
 
-#### Moving Forward 
+### Moving Forward 
 For those players who have found the last two chapters interesting, moving forward should be easy. Remember: This is a game, and, as such, it is yours to change, break, or tweak. Don’t worry about memorizing rules. Don’t be a rules-lawyer. Don’t worry about being prepared. Review the subsequent chapters, just to familiarize yourself with their contents, and then push into the game. The best adventures are often started when little preparation takes place. Adventures await those who are willing to jump into the water feet first. But don’t forget to bring some friends along for the ride, imagined, real, or otherwise.
 
 ---
