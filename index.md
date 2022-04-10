@@ -3,5 +3,11 @@ This is a Work-In-Progress, meaning things are being added and taken away daily.
 
 ---
 
+### Contents
 
+---
+
+1. Welcome to **Simulacrum**
+2. Is It Really OSR?
+3. 
 
