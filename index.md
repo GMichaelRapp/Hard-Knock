@@ -30,3 +30,7 @@ The Provisional Government, a coalition of over a hundred factions, declared the
 But when you’ve fought a war to end all wars, how can you give up your guns? How can you allow peace to begin? How can you allow your enemies to remake tomorrow alongside you when nothing was ever fully resolved? 
 
 **You survived the war, but now you must find a way to survive the peace.**
+
+
+---
+{% include footer.html %}
