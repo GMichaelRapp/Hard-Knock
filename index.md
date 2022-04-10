@@ -13,7 +13,7 @@ This is a Work-In-Progress, meaning things are being added and taken away daily.
 ---
 
 
-## Welcome to Simulacrum {#welcome-id}
+### Welcome to Simulacrum {#welcome-id}
 
 **The war began over two decades ago . . .**
 
@@ -31,7 +31,7 @@ But when you’ve fought a war to end all wars, how can you give up your guns? H
 
 **You survived the war, but now you must find a way to survive the peace.**
 
-## Is It Really OSR?
+### Is It Really OSR?
 
 ---
 
