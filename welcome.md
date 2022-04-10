@@ -1,7 +1,7 @@
 ---
 
 layout: default
-title: Customization
+title: Welcome to Simulacrum
 nav_order: 0
 
 ---
