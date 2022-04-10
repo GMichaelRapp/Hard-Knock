@@ -1,3 +1,12 @@
 remote_theme: just-the-docs/just-the-docs
 title: Simulacrum
 description: A d20 and OSR-inspired TTRPG system for a postwar, cyberpunk setting. 
+
+---
+
+layout: default
+title: 404
+nav_exclude: true
+
+---
+
