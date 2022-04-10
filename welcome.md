@@ -1,3 +1,11 @@
+---
+
+layout: default
+title: Customization
+nav_order: 0
+
+---
+
 ## Welcome to Simulacrum 
 
 **The war began over two decades ago . . .**
