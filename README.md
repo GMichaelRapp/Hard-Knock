@@ -1,2 +1,2 @@
-# simulacrum
-A d20 system for a postwar, cyberpunk setting. 
+# Simulacrum
+A d20 TTRPG system for a postwar, cyberpunk setting. 
