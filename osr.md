@@ -1,3 +1,12 @@
+---
+
+layout: default
+title: Is It Really OSR?
+nav_order: 3
+
+---
+
+
 ## Is It Really OSR?
 OSR stands for old-school revival (which is what we mean by OSR in this section; others might say it means, ‘old-school renaissance’), and it stands for more than that, too. OSR gaming is more than harkening back to the so-called good ol’ days of roleplaying games. Instead, it is a school of thought that hopes to strip away the meaningless number crunching, the tragic overemphasis on grids, boards, and miniatures, and the bloated mechanics of modern roleplaying games. OSR stresses simplicity over complexity. It is the Occam’s Razor response to many modern roleplaying systems.  
 
