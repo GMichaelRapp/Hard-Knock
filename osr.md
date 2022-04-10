@@ -16,7 +16,7 @@ Ben Milton (***Maze Rats***), via the wonderfully written (and compiled) OSR man
 
 Let’s unpack the passage above.  
 
-> **Lethality.** High lethality, or the possibility of death, is an always present force within an OSR-inspired game such as **Simulacrum**. Death is everywhere, and players must outwit death—and that’s no easy feat either. The propensity toward high lethality forces players to creatively solve their problems without resorting to violence that would either kill them or leave them seriously injured. High lethality also pushes characters away from the infamous murder hobo cliché of overly powerful characters enacting their violence on a world that is helpless to stop them. Players might try to be murder hobos here, but they won’t make it far. If they do, the bards will sing their songs for generations to come.  
+> **Lethality.** High lethality, or the possibility of death, is an always present force within an OSR-inspired game such as **Simulacrum**. Death is everywhere, and players must outwit death—and that’s no easy feat either. The propensity toward high lethality forces players to creatively solve their problems without resorting to violence that would either kill them or leave them seriously injured. High lethality also pushes characters away from the infamous murder hobo cliché of overly powerful characters enacting their violence on a world that is helpless to stop them. Players might try to be murder hobos here, but they won’t make it far. If they do, the cyberbards will sing their songs for generations to come.  
 
 > **Open World.** OSR roleplaying games emphasis open worlds. That does not mean the worlds are necessarily limitless. Instead, this means that the game allows wiggle room for exploration, adventure, and interaction with elements of that world. Open worlds shouldn’t feel stifling to players or even their Referees. Open worlds encourage players to move beyond and make a name for themselves, all the while telling death, “Not today.” 
 
@@ -33,7 +33,7 @@ Next, is ***interaction***, which emphasizes the players’ interactions with in
 
 ***Exploration*** is the third pillar, and one that emphasizes exploring the world, or, in this case, the larger universe physically. Exploration broadens characters’ knowledge of the galaxy and opens them up to new adventures and new treasures. Exploration serves as one of the largest pillars in this OSR-inspired roleplaying game, and Referees are highly encouraged to help players explore the galaxy.  
 
-***Achieving*** is the fourth pillar, and one that emphasizes the need to achieve something great. Achievements could include stealing a prized gem of a mad bureaucrat, crafting the ultimate weapon for a client, or looting a lost alien temple, full of boobytraps and cryptic alien texts.  
+***Achieving*** is the fourth pillar, and one that emphasizes the need to achieve something great. Achievements could include stealing a prized gem of a mad bureaucrat, crafting the ultimate weapon for a client, or looting a lost bunker, full of boobytraps and cryptic texts.  
 
 ### Rewards
 > **XP** or experience is one of many rewards players receive for their deeds. XP should be assigned based on the difficulty of the tasks or deeds accomplished.  
