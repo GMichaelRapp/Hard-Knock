@@ -1,12 +1,12 @@
 ---
 
 layout: default
-title: Welcome to Simulacrum
+title: Welcome to the Hard Knock
 nav_order: 0
 
 ---
 
-## Welcome to Simulacrum 
+## Welcome to the Hard Knock 
 
 **The war began over two decades ago . . .**
 
