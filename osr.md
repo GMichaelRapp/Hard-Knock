@@ -51,3 +51,7 @@ While many retro-clones focus on backwards compatibility with different games, t
 
 ### Moving Forward 
 For those players who have found the last two chapters interesting, moving forward should be easy. **Remember:** This is a game, and, as such, it is yours to change, break, or tweak. Don’t worry about memorizing rules. Don’t be a rules-lawyer. Don’t worry about being prepared. Review the subsequent chapters, just to familiarize yourself with their contents, and then push into the game. The best adventures are often started when little preparation takes place. Adventures await those who are willing to jump into the water feet first. But don’t forget to bring some friends along for the ride, imagined, real, or otherwise.
+
+
+---
+{% include footer.html %}
