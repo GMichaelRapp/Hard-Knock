@@ -29,3 +29,6 @@ The following text is the property of Wizards of the Coast, Inc. and is Copyrigh
 - Simulacrum, Copyright 2020–2022, G. Michael Rapp. 
 
 
+---
+
+{% include footer.html %}
